@@ -1,3 +1,9 @@
 body {
-  background: darkblue;
+  background: black;
+  color: whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Obr1 {
+  width: 50%;
 }
